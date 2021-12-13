@@ -13,7 +13,7 @@ docutils==0.14
 greenlet==0.4.12
 gunicorn==19.7.1
 idna==2.6
-lxml==4.1.1
+lxml==4.6.5
 mock==2.0.0
 pbr==5.1.1
 pika==0.11.2
